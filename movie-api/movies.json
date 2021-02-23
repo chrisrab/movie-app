@@ -1,0 +1,50 @@
+[
+  {
+    "id": "godzilla",
+    "title": "Godzilla",
+    "genre": "Thriller",
+    "reviews": [],
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/godzilla-2-poster-1545057744.jpg",
+    "description": "this is godzilla"
+  },
+  {
+    "id": "the-lion-king",
+    "title": "Lion King",
+    "genre": "Animation, Adventure",
+    "reviews": [],
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf58e44b-e80e-40f3-ab01-8c8650a8aae9/dcsnh92-0d55b4fc-1b94-4998-9b38-75892a1ae9a2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvY2Y1OGU0NGItZTgwZS00MGYzLWFiMDEtOGM4NjUwYThhYWU5XC9kY3NuaDkyLTBkNTViNGZjLTFiOTQtNDk5OC05YjM4LTc1ODkyYTFhZTlhMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.v07-Fcb2SerQ8SvzkrK-hkx6xJHPHC22-yyf9Ae5eXY",
+    "description": "this is lion king"
+  },
+  {
+    "id": "detective-pikachu",
+    "title": "Detective Pikachu, Pokemon",
+    "genre": "Animation, Adventure",
+    "reviews": [],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFrQd3ez_nmjQhnH7F3vyJUbDogMKNqoU6nCd-7rJ3ZzgprZo",
+    "description": "this is pikachu"
+  },
+  {
+    "id": "spiderman",
+    "title": "Spiderman: Far From Home",
+    "genre": "Comic Book, Action",
+    "reviews": [],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTStY893W6Ihm3px1v-iJu3s0qVaAcyXdiE2ICo9bShiQgpCSbx",
+    "description": "this is spiderman"
+  },
+  {
+    "id": "tomb-raider",
+    "title": "Tomb Raider",
+    "genre": "Action",
+    "reviews": [],
+    "image": "http://www.movienewsletters.net/photos/235009R1.jpg",
+    "description": "this is tomb raider"
+  },
+  {
+    "id": "x-men",
+    "title": "X-Men: Dark Phoenix",
+    "genre": "Comic Book, Action",
+    "reviews": [],
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx4JS_U1Xp6AKtrTXtE00H40SejV2VfJtLVd3Vy46BcPYa0PPy",
+    "description": "this is x-men"
+  }
+]

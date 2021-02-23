@@ -1,0 +1,115 @@
+/*.App {
+  background-color: aqua;
+}*/
+
+html {
+  background-color: slategray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.movies {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.movie {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.movie {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  max-width: 250px;
+  max-height: 500px;
+  box-shadow: 10px 10px 5px black;
+}
+
+.title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.genre {
+  padding-top: 0px;
+  padding-bottom: 50px;
+}
+
+.search-icon {
+  padding-left: 50px;
+  cursor: pointer;
+}
+
+.header-title {
+  margin-left: 80px;
+}
+
+.movies {
+  display: flex;
+}
+
+.search {
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 42vw;
+  margin-bottom: 50px;
+} */
+
+li {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.title {
+  color: white;
+}
+
+.title:visited {
+  text-decoration: none;
+  color: white;
+}
