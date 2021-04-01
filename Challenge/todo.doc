@@ -1,0 +1,5 @@
+- Page defaults to 3000/movies not 3001 use fetch to post 
+- Images are from internet
+- POST
+
+onsumbit event form data
