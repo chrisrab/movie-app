@@ -1,29 +1,29 @@
-import React from 'react';
-import Movies from './Movies';
-import { useState } from 'react';
-import { Link, Outlet } from 'react-router-dom';
+import React from 'react'
+import Movies from './Movies'
+import { useState } from 'react'
+import { Link, Outlet } from 'react-router-dom'
 
 function Search({ movies }) {
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState('')
   return (
     <div>
       <input
         className="search"
         type="text"
         placeholder="Search Movies"
-        onChange={event => {
-          setSearchTerm(event.target.value);
+        onChange={(event) => {
+          setSearchTerm(event.target.value)
         }}
       />
       <ul className="movies">
         {movies
-          .filter(val => {
+          .filter((val) => {
             if (searchTerm === '') {
-              console.log(val);
-              return val;
+              console.log(val)
+              return val
             } else if (val.title.toLowerCase().includes(searchTerm.toLowerCase())) {
-              console.log(val);
-              return val;
+              console.log(val)
+              return val
             }
           })
           .map(({ id, title, genre, reviews, image }) => (
@@ -38,12 +38,12 @@ function Search({ movies }) {
         <Outlet />
       </ul>
     </div>
-  );
+  )
 }
 
 const imageStyle = {
-  width: '500px',
-  height: '750px'
-};
+  width: '300px',
+  height: '450px',
+}
 
-export default Search;
+export default Search
